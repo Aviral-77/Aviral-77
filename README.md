@@ -7,6 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/AviralDayal" target="blank"><img src="https://img.shields.io/twitter/follow/AVIRALDAYAL?logo=twitter&style=for-the-badge" alt="aviraldayal"  </p>
 
+
 - 🔭 I’m currently working on **MERN Stack**
 
 - 🌱 I’m currently learning **React and TailWind**
@@ -18,6 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/AviralDayal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
+<a href="https://leetcode.com/kuroillight77/" target="blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png?20191202080835" alt="aviraldayal" height-"30" width="40" /></a>
 <a href="https://linkedin.com/in/aviral-dayal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aviral-dayal" height="30" width="40" /></a>
 </p>
 
