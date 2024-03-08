@@ -50,5 +50,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aviral-77&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Aviral-77" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aviral-77&show_icons=true&locale=en&theme=tokyonight" alt="Aviral-77" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aviral-77&&theme=tokyonight" alt="Aviral-77" /></p>
