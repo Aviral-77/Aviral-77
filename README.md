@@ -7,12 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/AviralDayal" target="blank"><img src="https://img.shields.io/twitter/follow/AVIRALDAYAL?logo=twitter&style=for-the-badge" alt="aviraldayal"  </p>
 
-
-- 🔭 I’m currently working on **MERN Stack**
-
-- 🌱 I’m currently learning **React and TailWind**
-
-- 💬 Ask me about **Python , MERN**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **aviraldayal2002@gmail.com**
 
